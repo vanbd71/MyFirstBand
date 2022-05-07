@@ -114,7 +114,7 @@ html{
     left: 0;
     top: 0;
     overflow: hidden;
-    z-index: 10;
+    z-index: 30;
 }
 #nav {
     display: inline-block;
